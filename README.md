@@ -24,7 +24,6 @@ Abrir o arquivo index.html no seu browser
 
 ## 🛠️ Construído com as seguintes linguagens e frameworks:
 
-* Web com Asp.net MVC
 * HTML
 * CSS
 * JavaScript
